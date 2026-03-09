@@ -1,6 +1,3 @@
-# bluesky-post-live-pure-os
-This way posts to Bluesky your LIVE status using Mix It Up and OBS without having to download node.js.
-
 # Bluesky Auto Live Status for Streamers
 
 Automatically set your Bluesky profile to **LIVE** when you start streaming, and clear it when you're done — using Mix It Up and OBS.
